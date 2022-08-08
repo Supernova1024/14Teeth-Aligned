@@ -1,0 +1,6 @@
+tqdm
+mediapipe
+scipy>=1.6
+torch>=1.8.1
+opencv-python>=4.5.2
+numpy>=1.20
